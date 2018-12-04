@@ -15,7 +15,7 @@ from openpyxl import load_workbook
 from openpyxl.utils import get_column_letter
 
 def validate_cell(input_cell):
-    if not input_cell or input_cell == '':
+    if not input_cell or input_cell == '' or input_cell == 'None':
         return False
     return True
 
@@ -79,12 +79,13 @@ def create_and_fill_single_aiml_file(name, location,content_as_dict):
             aiml_file.write("\t<category>") 
             aiml_file.write("\n")
             aiml_file.write("\t\t<pattern>")        
-            aiml_file.write("\t\t\t"+k)        
-            aiml_file.write("\t\t</pattern>")
+            aiml_file.write(k)        
+            aiml_file.write("</pattern>")
             aiml_file.write("\n")
             aiml_file.write("\t\t<template>")                        
-            aiml_file.write("\t\t\t"+v)        
-            aiml_file.write("\t\t</template>")
+            aiml_file.write(v)       
+            aiml_file.write("\n") 
+            aiml_file.write("</template>")
             aiml_file.write("\n")
             aiml_file.write("\t</category>") 
             aiml_file.write("\n\n")
