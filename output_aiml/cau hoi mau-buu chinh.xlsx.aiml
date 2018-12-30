@@ -2,47 +2,47 @@
 <aiml version="2.0">
 	<category>
 		<pattern>thông tin chung của quy trình cấp giấy phép bưu chính</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
 - Doanh nghiệp cần có:
 a) Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;
 b) Có khả năng tài chính (có mức vốn tối thiểu là 02 tỷ đồng Việt Nam; mức vốn tối thiểu phải được thể hiện trong giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam của doanh nghiệp), nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;
 c) Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;
 d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>đối tượng cần đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
 - Doanh nghiệp cần có:
 a) Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;
 b) Có khả năng tài chính (có mức vốn tối thiểu là 02 tỷ đồng Việt Nam; mức vốn tối thiểu phải được thể hiện trong giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam của doanh nghiệp), nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;
 c) Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;
 d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>hiệu lực của giấy phép bưu chính</pattern>
-		<template><srai>Thời gian hiệu lực được ghi trên giấy phép</srai>
+		<template>Thời gian hiệu lực được ghi trên giấy phép
 </template>
 	</category>
 
 	<category>
 		<pattern>cách thức đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>- Nộp hồ sơ trực tiếp. 
+		<template>- Nộp hồ sơ trực tiếp. 
 - Qua đường bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>hồ sơ đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>1. Thành phần hồ sơ:
+		<template>1. Thành phần hồ sơ:
 -  Giấy đề nghị cấp giấy phép bưu chính;
 - Bản sao giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao;
 - Điều lệ tổ chức và hoạt động của doanh nghiệp (nếu có);
@@ -62,13 +62,13 @@ d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với co
 + Phương thức cung ứng dịch vụ do doanh nghiệp tự tổ chức hoặc hợp tác cung ứng dịch vụ với doanh nghiệp khác (trường hợp hợp tác với doanh nghiệp khác, doanh nghiệp đề nghị cấp giấy phép bưu chính phải trình bày chi tiết về phạm vi hợp tác, công tác phối hợp trong việc bảo đảm an toàn, an ninh, giải quyết khiếu nại và bồi thường thiệt hại cho người sử dụng dịch vụ);
 + Các biện pháp bảo đảm an toàn đối với con người, bưu gửi, mạng bưu chính và an ninh thông tin trong hoạt động bưu chính;
 + Phân tích tính khả thi và lợi ích kinh tế - xã hội của phương án thông qua các chỉ tiêu về sản lượng, doanh thu, chi phí, số lượng lao động, thuế nộp ngân sách nhà nước, tỷ lệ hoàn vốn đầu tư trong 03 năm tới kể từ năm đề nghị cấp phép.
-2. Số lượng hồ sơ: 03 bộ (01 bộ là bản gốc, 02 bộ là bản sao do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao).</srai>
+2. Số lượng hồ sơ: 03 bộ (01 bộ là bản gốc, 02 bộ là bản sao do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao).
 </template>
 	</category>
 
 	<category>
 		<pattern>thành phần hồ sơ đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>1. Thành phần hồ sơ:
+		<template>1. Thành phần hồ sơ:
 -  Giấy đề nghị cấp giấy phép bưu chính;
 - Bản sao giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao;
 - Điều lệ tổ chức và hoạt động của doanh nghiệp (nếu có);
@@ -88,39 +88,39 @@ d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với co
 + Phương thức cung ứng dịch vụ do doanh nghiệp tự tổ chức hoặc hợp tác cung ứng dịch vụ với doanh nghiệp khác (trường hợp hợp tác với doanh nghiệp khác, doanh nghiệp đề nghị cấp giấy phép bưu chính phải trình bày chi tiết về phạm vi hợp tác, công tác phối hợp trong việc bảo đảm an toàn, an ninh, giải quyết khiếu nại và bồi thường thiệt hại cho người sử dụng dịch vụ);
 + Các biện pháp bảo đảm an toàn đối với con người, bưu gửi, mạng bưu chính và an ninh thông tin trong hoạt động bưu chính;
 + Phân tích tính khả thi và lợi ích kinh tế - xã hội của phương án thông qua các chỉ tiêu về sản lượng, doanh thu, chi phí, số lượng lao động, thuế nộp ngân sách nhà nước, tỷ lệ hoàn vốn đầu tư trong 03 năm tới kể từ năm đề nghị cấp phép.
-2. Số lượng hồ sơ: 03 bộ (01 bộ là bản gốc, 02 bộ là bản sao do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao).</srai>
+2. Số lượng hồ sơ: 03 bộ (01 bộ là bản gốc, 02 bộ là bản sao do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao).
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian giải quyết hồ sơ đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>30 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật</srai>
+		<template>30 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật
 </template>
 	</category>
 
 	<category>
 		<pattern>cơ quan giải quyết hồ sơ đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>Sở TTTT</srai>
+		<template>Sở TTTT
 </template>
 	</category>
 
 	<category>
 		<pattern>kết quả giải quyết hồ sơ đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>Giấy phép bưu chính</srai>
+		<template>Giấy phép bưu chính
 </template>
 	</category>
 
 	<category>
 		<pattern>căn cứ pháp lý của việc đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
+		<template>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
 - Nghị định số 47/2011/NĐ-CP ngày 17/6/2011 quy định chi tiết thi hành một số nội dung của Luật Bưu chính.
-- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình xử lý đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>1. Bộ phận tiếp nhận và trả kết quả:
+		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Tiếp nhận và xem xét thành phần hồ sơ;
     • Trường hợp nộp hồ sơ trực tiếp tại Bộ phận tiếp nhận và hoàn trả kết quả: Ghi giấy biên nhận hồ sơ khi thành phần đầy đủ, đề nghị người nộp hồ sơ ký tên và giao giấy biên nhận. Trường hợp nộp hồ sơ qua đường bưu chính: Bộ phận tiếp nhận và hoàn trả kết quả phải gửi giấy biên nhận hồ sơ đến địa chỉ thư điện tử (Email) của doanh nghiệp trong thời hạn 03 ngày làm việc kể từ khi nhận được hồ sơ;
     • Ghi phiếu hướng dẫn trường hợp không đủ thành phần;
@@ -141,64 +141,64 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 6. Bộ phận tiếp nhận và trả kết quả 
     • Trả kết quả cho cơ quan, tổ chức; yêu cầu người nhận ký tên vào sổ tiếp nhận và trả kết quả.
     - Chuyển hồ sơ về Phòng Bưu chính, Viễn thông lưu.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian lưu hồ sơ đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
+		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
 
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>lệ phí đăng ký cấp giấy phép bưu chính</pattern>
-		<template><srai>10.750.000 đồng.
-Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+		<template>10.750.000 đồng.
+Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>thông tin chung của quy trình sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
 - Doanh nghiệp cần có:
 a) Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;
 b) Có khả năng tài chính (có mức vốn tối thiểu là 02 tỷ đồng Việt Nam; mức vốn tối thiểu phải được thể hiện trong giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam của doanh nghiệp), nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;
 c) Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;
 d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>đối tượng cần sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
 - Doanh nghiệp cần có:
 a) Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;
 b) Có khả năng tài chính (có mức vốn tối thiểu là 02 tỷ đồng Việt Nam; mức vốn tối thiểu phải được thể hiện trong giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam của doanh nghiệp), nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;
 c) Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;
 d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>cách thức đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>- Nộp hồ sơ trực tiếp. 
+		<template>- Nộp hồ sơ trực tiếp. 
 - Qua đường bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>hồ sơ đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>1. Thành phần hồ sơ:
+		<template>1. Thành phần hồ sơ:
 -  Giấy đề nghị cấp giấy phép bưu chính;
 - Bản sao giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao;
 - Điều lệ tổ chức và hoạt động của doanh nghiệp (nếu có);
@@ -218,49 +218,49 @@ d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với co
 + Phương thức cung ứng dịch vụ do doanh nghiệp tự tổ chức hoặc hợp tác cung ứng dịch vụ với doanh nghiệp khác (trường hợp hợp tác với doanh nghiệp khác, doanh nghiệp đề nghị cấp giấy phép bưu chính phải trình bày chi tiết về phạm vi hợp tác, công tác phối hợp trong việc bảo đảm an toàn, an ninh, giải quyết khiếu nại và bồi thường thiệt hại cho người sử dụng dịch vụ);
 + Các biện pháp bảo đảm an toàn đối với con người, bưu gửi, mạng bưu chính và an ninh thông tin trong hoạt động bưu chính;
 + Phân tích tính khả thi và lợi ích kinh tế - xã hội của phương án thông qua các chỉ tiêu về sản lượng, doanh thu, chi phí, số lượng lao động, thuế nộp ngân sách nhà nước, tỷ lệ hoàn vốn đầu tư trong 03 năm tới kể từ năm đề nghị cấp phép.
-2. Số lượng hồ sơ: 03 bộ (01 bộ là bản gốc, 02 bộ là bản sao do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao).</srai>
+2. Số lượng hồ sơ: 03 bộ (01 bộ là bản gốc, 02 bộ là bản sao do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao).
 </template>
 	</category>
 
 	<category>
 		<pattern>thành phần hồ sơ đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>1. Thành phần hồ sơ: 
+		<template>1. Thành phần hồ sơ: 
 - Giấy đề nghị sửa đổi, bổ sung giấy phép bưu chính;
 - Tài liệu liên quan đến nội dung đề nghị sửa đổi, bổ sung giấy phép bưu chính;
 - Bản sao giấy phép bưu chính đã được cấp lần gần nhất.
-2. Số lượng hồ sơ: 01 bộ là bản gốc</srai>
+2. Số lượng hồ sơ: 01 bộ là bản gốc
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian giải quyết hồ sơ đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>10 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật</srai>
+		<template>10 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật
 </template>
 	</category>
 
 	<category>
 		<pattern>cơ quan giải quyết hồ sơ đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>Sở TTTT</srai>
+		<template>Sở TTTT
 </template>
 	</category>
 
 	<category>
 		<pattern>kết quả giải quyết hồ sơ đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>Giấy phép bưu chính (sửa đổi, bổ sung)</srai>
+		<template>Giấy phép bưu chính (sửa đổi, bổ sung)
 </template>
 	</category>
 
 	<category>
 		<pattern>căn cứ pháp lý của việc đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
+		<template>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
 - Nghị định số 47/2011/NĐ-CP ngày 17/6/2011 quy định chi tiết thi hành một số nội dung của Luật Bưu chính.
-- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình xử lý đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>1. Bộ phận tiếp nhận và trả kết quả:
+		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Tiếp nhận và xem xét thành phần hồ sơ;
     • Trường hợp nộp hồ sơ trực tiếp tại Bộ phận tiếp nhận và hoàn trả kết quả: Ghi giấy biên nhận hồ sơ khi thành phần đầy đủ, đề nghị người nộp hồ sơ ký tên và giao giấy biên nhận. Trường hợp nộp hồ sơ qua đường bưu chính: Bộ phận tiếp nhận và hoàn trả kết quả phải gửi giấy biên nhận hồ sơ đến địa chỉ thư điện tử (Email) của doanh nghiệp trong thời hạn 03 ngày làm việc kể từ khi nhận được hồ sơ;
     • Ghi phiếu hướng dẫn trường hợp không đủ thành phần;
@@ -281,65 +281,65 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 6. Bộ phận tiếp nhận và trả kết quả 
     • Trả kết quả cho cơ quan, tổ chức; yêu cầu người nhận ký tên vào sổ tiếp nhận và trả kết quả.
    - Chuyển hồ sơ về Phòng Bưu chính, Viễn thông lưu. 
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian lưu hồ sơ đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
+		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
 
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>lệ phí đăng ký sửa đổi bổ sung giấy phép bưu chính</pattern>
-		<template><srai>- Trường hợp mở rộng phạm vi cung ứng dịch vụ nội tỉnh: 2.750.000 đồng
+		<template>- Trường hợp mở rộng phạm vi cung ứng dịch vụ nội tỉnh: 2.750.000 đồng
 - Trường hợp thay đổi các nội dung khác trong giấy phép: 1.500.000 đồng.
-Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>thông tin chung của quy trình cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
 - Doanh nghiệp cần có:
 a) Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;
 b) Có khả năng tài chính (có mức vốn tối thiểu là 02 tỷ đồng Việt Nam; mức vốn tối thiểu phải được thể hiện trong giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam của doanh nghiệp), nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;
 c) Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;
 d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính.
-- Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày</srai>
+- Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày
 </template>
 	</category>
 
 	<category>
 		<pattern>đối tượng cần đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
 - Doanh nghiệp cần có:
 a) Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;
 b) Có khả năng tài chính (có mức vốn tối thiểu là 02 tỷ đồng Việt Nam; mức vốn tối thiểu phải được thể hiện trong giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam của doanh nghiệp), nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;
 c) Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;
 d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính.
-- Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày</srai>
+- Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày
 </template>
 	</category>
 
 	<category>
 		<pattern>cách thức đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>- Nộp hồ sơ trực tiếp. 
+		<template>- Nộp hồ sơ trực tiếp. 
 - Qua đường bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>hồ sơ đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>1. Thành phần hồ sơ bao gồm: 
+		<template>1. Thành phần hồ sơ bao gồm: 
 - Giấy đề nghị cấp lại giấy phép bưu chính;
 - Bản sao giấy phép bưu chính được cấp lần gần nhất;
 - Báo cáo tài chính của 02 năm gần nhất do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của báo cáo;
@@ -351,13 +351,13 @@ d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với co
 + Tiêu chuẩn chất lượng dịch vụ bưu chính công bố áp dụng phù hợp với quy định của pháp luật về bưu chính;
 + Quy định về mức giới hạn trách nhiệm bồi thường thiệt hại trong trường hợp phát sinh thiệt hại, quy trình giải quyết khiếu nại của khách hàng, thời hạn giải quyết khiếu nại phù hợp với quy định của pháp luật về bưu chính.
 2. Số lượng hồ sơ: 01 bộ là bản gốc.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>thành phần hồ sơ đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>1. Thành phần hồ sơ bao gồm: 
+		<template>1. Thành phần hồ sơ bao gồm: 
 - Giấy đề nghị cấp lại giấy phép bưu chính;
 - Bản sao giấy phép bưu chính được cấp lần gần nhất;
 - Báo cáo tài chính của 02 năm gần nhất do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của báo cáo;
@@ -369,39 +369,39 @@ d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với co
 + Tiêu chuẩn chất lượng dịch vụ bưu chính công bố áp dụng phù hợp với quy định của pháp luật về bưu chính;
 + Quy định về mức giới hạn trách nhiệm bồi thường thiệt hại trong trường hợp phát sinh thiệt hại, quy trình giải quyết khiếu nại của khách hàng, thời hạn giải quyết khiếu nại phù hợp với quy định của pháp luật về bưu chính.
 2. Số lượng hồ sơ: 01 bộ là bản gốc.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian giải quyết hồ sơ đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>10 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật</srai>
+		<template>10 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật
 </template>
 	</category>
 
 	<category>
 		<pattern>cơ quan giải quyết hồ sơ đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>Sở TTTT</srai>
+		<template>Sở TTTT
 </template>
 	</category>
 
 	<category>
 		<pattern>kết quả giải quyết hồ sơ đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>Giấy phép bưu chính</srai>
+		<template>Giấy phép bưu chính
 </template>
 	</category>
 
 	<category>
 		<pattern>căn cứ pháp lý của việc đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
+		<template>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
 - Nghị định số 47/2011/NĐ-CP ngày 17/6/2011 quy định chi tiết thi hành một số nội dung của Luật Bưu chính.
-- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình xử lý đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>1. Bộ phận tiếp nhận và trả kết quả:
+		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Tiếp nhận và xem xét thành phần hồ sơ;
     • Trường hợp nộp hồ sơ trực tiếp tại Bộ phận tiếp nhận và hoàn trả kết quả: Ghi giấy biên nhận hồ sơ khi thành phần đầy đủ, đề nghị người nộp hồ sơ ký tên và giao giấy biên nhận. Trường hợp nộp hồ sơ qua đường bưu chính: Bộ phận tiếp nhận và hoàn trả kết quả phải gửi giấy biên nhận hồ sơ đến địa chỉ thư điện tử (Email) của doanh nghiệp trong thời hạn 03 ngày làm việc kể từ khi nhận được hồ sơ;
     • Ghi phiếu hướng dẫn trường hợp không đủ thành phần;
@@ -422,108 +422,108 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 6. Bộ phận tiếp nhận và trả kết quả 
     • Trả kết quả cho cơ quan, tổ chức; yêu cầu người nhận ký tên vào sổ tiếp nhận và trả kết quả.
     - Chuyển hồ sơ về Phòng Bưu chính, Viễn thông lưu.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian lưu hồ sơ đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
+		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
 
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>lệ phí đăng ký cấp lại giấy phép bưu chính khi hết hạn</pattern>
-		<template><srai>10.750.000 đồng.
-Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+		<template>10.750.000 đồng.
+Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>thông tin chung của quy trình cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
 - Doanh nghiệp cần có:
 a) Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;
 b) Có khả năng tài chính (có mức vốn tối thiểu là 02 tỷ đồng Việt Nam; mức vốn tối thiểu phải được thể hiện trong giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam của doanh nghiệp), nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;
 c) Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;
 d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính.
-- Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày</srai>
+- Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày
 </template>
 	</category>
 
 	<category>
 		<pattern>đối tượng cần đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
 - Doanh nghiệp cần có:
 a) Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;
 b) Có khả năng tài chính (có mức vốn tối thiểu là 02 tỷ đồng Việt Nam; mức vốn tối thiểu phải được thể hiện trong giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam của doanh nghiệp), nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;
 c) Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;
 d) Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính.
-- Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày</srai>
+- Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày
 </template>
 	</category>
 
 	<category>
 		<pattern>cách thức đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>- Nộp hồ sơ trực tiếp. 
+		<template>- Nộp hồ sơ trực tiếp. 
 - Qua đường bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>hồ sơ đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>1. Thành phần hồ sơ: 
+		<template>1. Thành phần hồ sơ: 
 - Giấy đề nghị cấp lại giấy phép bưu chính;
 - Bản gốc giấy phép bưu chính còn thời hạn sử dụng, nhưng bị hư hỏng không sử dụng được
-2. Số lượng hồ sơ: 01 bộ là bản gốc.</srai>
+2. Số lượng hồ sơ: 01 bộ là bản gốc.
 </template>
 	</category>
 
 	<category>
 		<pattern>thành phần hồ sơ đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>1. Thành phần hồ sơ: 
+		<template>1. Thành phần hồ sơ: 
 - Giấy đề nghị cấp lại giấy phép bưu chính;
 - Bản gốc giấy phép bưu chính còn thời hạn sử dụng, nhưng bị hư hỏng không sử dụng được
-2. Số lượng hồ sơ: 01 bộ là bản gốc.</srai>
+2. Số lượng hồ sơ: 01 bộ là bản gốc.
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian giải quyết hồ sơ đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>07 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật</srai>
+		<template>07 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật
 </template>
 	</category>
 
 	<category>
 		<pattern>cơ quan giải quyết hồ sơ đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>Sở TTTT</srai>
+		<template>Sở TTTT
 </template>
 	</category>
 
 	<category>
 		<pattern>kết quả giải quyết hồ sơ đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>Giấy phép bưu chính</srai>
+		<template>Giấy phép bưu chính
 </template>
 	</category>
 
 	<category>
 		<pattern>căn cứ pháp lý của việc đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
+		<template>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
 - Nghị định số 47/2011/NĐ-CP ngày 17/6/2011 quy định chi tiết thi hành một số nội dung của Luật Bưu chính.
-- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình xử lý đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>1. Bộ phận tiếp nhận và trả kết quả:
+		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Tiếp nhận và xem xét thành phần hồ sơ;
     • Trường hợp nộp hồ sơ trực tiếp tại Bộ phận tiếp nhận và hoàn trả kết quả: Ghi giấy biên nhận hồ sơ khi thành phần đầy đủ, đề nghị người nộp hồ sơ ký tên và giao giấy biên nhận. Trường hợp nộp hồ sơ qua đường bưu chính: Bộ phận tiếp nhận và hoàn trả kết quả phải gửi giấy biên nhận hồ sơ đến địa chỉ thư điện tử (Email) của doanh nghiệp trong thời hạn 03 ngày làm việc kể từ khi nhận được hồ sơ;
     • Ghi phiếu hướng dẫn trường hợp không đủ thành phần;
@@ -544,54 +544,54 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 6. Bộ phận tiếp nhận và trả kết quả 
     • Trả kết quả cho cơ quan, tổ chức; yêu cầu người nhận ký tên vào sổ tiếp nhận và trả kết quả.
     - Chuyển hồ sơ về Phòng Bưu chính, Viễn thông lưu.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian lưu hồ sơ đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
+		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
 
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>lệ phí đăng ký cấp lại giấy phép bưu chính nội tỉnh khi bị mất</pattern>
-		<template><srai>1.250.000 đồng.
-Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+		<template>1.250.000 đồng.
+Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>thông tin chung của quy trình cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
-- Việc thông báo hoạt động bưu chính được thực hiện chậm nhất là 07 ngày làm việc, kể từ ngày đầu tiên hoạt động bưu chính.</srai>
+- Việc thông báo hoạt động bưu chính được thực hiện chậm nhất là 07 ngày làm việc, kể từ ngày đầu tiên hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>đối tượng cần đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
-- Việc thông báo hoạt động bưu chính được thực hiện chậm nhất là 07 ngày làm việc, kể từ ngày đầu tiên hoạt động bưu chính.</srai>
+- Việc thông báo hoạt động bưu chính được thực hiện chậm nhất là 07 ngày làm việc, kể từ ngày đầu tiên hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>cách thức đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>- Nộp hồ sơ trực tiếp. 
+		<template>- Nộp hồ sơ trực tiếp. 
 - Qua đường bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>hồ sơ đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>1. Thành phần hồ sơ: 
+		<template>1. Thành phần hồ sơ: 
 - Hồ sơ đề nghị xác nhận thông báo hoạt động bưu chính đối với các trường hợp cung ứng dịch vụ thư không có địa chỉ nhận có khối lượng đơn chiếc đến 02 kilôgam (kg); cung ứng dịch vụ thư có khối lượng đơn chiếc trên 02 kilôgam (kg) và cung ứng dịch vụ gói, kiện hàng hóa gồm:
 + Văn bản thông báo hoạt động bưu chính;
 + Bản sao giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao;
@@ -603,13 +603,13 @@ Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của B�
 - Hồ sơ đề nghị xác nhận thông báo hoạt động bưu chính đối với trường hợp làm chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam bao gồm:
 + Văn bản thông báo hoạt động bưu chính;
 + Bản sao giấy phép thành lập do cơ quan nhà nước có thẩm quyền cấp được doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao.
-2. Số lượng hồ sơ: 01 bộ là bản gốc</srai>
+2. Số lượng hồ sơ: 01 bộ là bản gốc
 </template>
 	</category>
 
 	<category>
 		<pattern>thành phần hồ sơ đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>1. Thành phần hồ sơ: 
+		<template>1. Thành phần hồ sơ: 
 - Hồ sơ đề nghị xác nhận thông báo hoạt động bưu chính đối với các trường hợp cung ứng dịch vụ thư không có địa chỉ nhận có khối lượng đơn chiếc đến 02 kilôgam (kg); cung ứng dịch vụ thư có khối lượng đơn chiếc trên 02 kilôgam (kg) và cung ứng dịch vụ gói, kiện hàng hóa gồm:
 + Văn bản thông báo hoạt động bưu chính;
 + Bản sao giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư hoạt động bưu chính tại Việt Nam do doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao;
@@ -621,39 +621,39 @@ Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của B�
 - Hồ sơ đề nghị xác nhận thông báo hoạt động bưu chính đối với trường hợp làm chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam bao gồm:
 + Văn bản thông báo hoạt động bưu chính;
 + Bản sao giấy phép thành lập do cơ quan nhà nước có thẩm quyền cấp được doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao.
-2. Số lượng hồ sơ: 01 bộ là bản gốc</srai>
+2. Số lượng hồ sơ: 01 bộ là bản gốc
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian giải quyết hồ sơ đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>10 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật</srai>
+		<template>10 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật
 </template>
 	</category>
 
 	<category>
 		<pattern>cơ quan giải quyết hồ sơ đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>Sở TTTT</srai>
+		<template>Sở TTTT
 </template>
 	</category>
 
 	<category>
 		<pattern>kết quả giải quyết hồ sơ đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>Văn bản xác nhận thông báo hoạt động bưu chính</srai>
+		<template>Văn bản xác nhận thông báo hoạt động bưu chính
 </template>
 	</category>
 
 	<category>
 		<pattern>căn cứ pháp lý của việc đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
+		<template>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
 - Nghị định số 47/2011/NĐ-CP ngày 17/6/2011 quy định chi tiết thi hành một số nội dung của Luật Bưu chính.
-- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình xử lý đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>1. Bộ phận tiếp nhận và trả kết quả:
+		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Tiếp nhận và xem xét thành phần hồ sơ;
     • Trường hợp nộp hồ sơ trực tiếp tại Bộ phận tiếp nhận và hoàn trả kết quả: Ghi giấy biên nhận hồ sơ khi thành phần đầy đủ, đề nghị người nộp hồ sơ ký tên và giao giấy biên nhận. Trường hợp nộp hồ sơ qua đường bưu chính: Bộ phận tiếp nhận và hoàn trả kết quả phải gửi giấy biên nhận hồ sơ đến địa chỉ thư điện tử (Email) của doanh nghiệp trong thời hạn 03 ngày làm việc kể từ khi nhận được hồ sơ;
     • Ghi phiếu hướng dẫn trường hợp không đủ thành phần;
@@ -674,98 +674,98 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 6. Bộ phận tiếp nhận và trả kết quả 
     • Trả kết quả cho cơ quan, tổ chức; yêu cầu người nhận ký tên vào sổ tiếp nhận và trả kết quả.
     - Chuyển hồ sơ về Phòng Bưu chính, Viễn thông lưu.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian lưu hồ sơ đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
+		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
 
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>lệ phí đăng ký cấp văn bản xác nhận thông báo hoạt động bưu chính</pattern>
-		<template><srai>10.750.000 đồng.
-Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+		<template>10.750.000 đồng.
+Theo quy định tại Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>thông tin chung của quy trình cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
-- Văn bản xác nhận thông báo hoạt động bưu chính bị mất hoặc hư hỏng không sử dụng được</srai>
+- Văn bản xác nhận thông báo hoạt động bưu chính bị mất hoặc hư hỏng không sử dụng được
 </template>
 	</category>
 
 	<category>
 		<pattern>đối tượng cần đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
+		<template>- Doanh nghiệp khai báo đầy đủ, chính xác thông tin trong hồ sơ và nộp các giấy tờ cần thiết.
 - Doanh nghiệp nộp/gửi hồ sơ về Sở Thông tin và Truyền thông.
-- Văn bản xác nhận thông báo hoạt động bưu chính bị mất hoặc hư hỏng không sử dụng được</srai>
+- Văn bản xác nhận thông báo hoạt động bưu chính bị mất hoặc hư hỏng không sử dụng được
 </template>
 	</category>
 
 	<category>
 		<pattern>cách thức đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>- Nộp hồ sơ trực tiếp. 
+		<template>- Nộp hồ sơ trực tiếp. 
 - Qua đường bưu chính.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>hồ sơ đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>1. Thành phần hồ sơ: 
+		<template>1. Thành phần hồ sơ: 
 - Giấy đề nghị cấp lại văn bản xác nhận thông báo hoạt động bưu chính
 - Bản gốc văn bản xác nhận thông báo hoạt động bưu chính đối với trường hợp bị hư hỏng không sử dụng được
-2. Số lượng hồ sơ: 01 bộ là bản gốc</srai>
+2. Số lượng hồ sơ: 01 bộ là bản gốc
 </template>
 	</category>
 
 	<category>
 		<pattern>thành phần hồ sơ đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>1. Thành phần hồ sơ: 
+		<template>1. Thành phần hồ sơ: 
 - Giấy đề nghị cấp lại văn bản xác nhận thông báo hoạt động bưu chính
 - Bản gốc văn bản xác nhận thông báo hoạt động bưu chính đối với trường hợp bị hư hỏng không sử dụng được
-2. Số lượng hồ sơ: 01 bộ là bản gốc</srai>
+2. Số lượng hồ sơ: 01 bộ là bản gốc
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian giải quyết hồ sơ đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>7 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật</srai>
+		<template>7 ngày làm việc kể từ ngày nhận được hồ sơ đáp ứng các quy định của pháp luật
 </template>
 	</category>
 
 	<category>
 		<pattern>cơ quan giải quyết hồ sơ đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>Sở TTTT</srai>
+		<template>Sở TTTT
 </template>
 	</category>
 
 	<category>
 		<pattern>kết quả giải quyết hồ sơ đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>Bản sao từ bản gốc của văn bản xác nhận thông báo hoạt động bưu chính đã được cấp</srai>
+		<template>Bản sao từ bản gốc của văn bản xác nhận thông báo hoạt động bưu chính đã được cấp
 </template>
 	</category>
 
 	<category>
 		<pattern>căn cứ pháp lý của việc đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
+		<template>- Luật Bưu chính số 49/2010/QH ngày 28/6/2010.
 - Nghị định số 47/2011/NĐ-CP ngày 17/6/2011 quy định chi tiết thi hành một số nội dung của Luật Bưu chính.
-- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.</srai>
+- Thông tư số 291/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình xử lý đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>1. Bộ phận tiếp nhận và trả kết quả:
+		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Tiếp nhận và xem xét thành phần hồ sơ;
     • Trường hợp nộp hồ sơ trực tiếp tại Bộ phận tiếp nhận và hoàn trả kết quả: Ghi giấy biên nhận hồ sơ khi thành phần đầy đủ, đề nghị người nộp hồ sơ ký tên và giao giấy biên nhận. Trường hợp nộp hồ sơ qua đường bưu chính: Bộ phận tiếp nhận và hoàn trả kết quả phải gửi giấy biên nhận hồ sơ đến địa chỉ thư điện tử (Email) của doanh nghiệp trong thời hạn 03 ngày làm việc kể từ khi nhận được hồ sơ;
     • Ghi phiếu hướng dẫn trường hợp không đủ thành phần;
@@ -786,17 +786,17 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 6. Bộ phận tiếp nhận và trả kết quả 
     • Trả kết quả cho cơ quan, tổ chức; yêu cầu người nhận ký tên vào sổ tiếp nhận và trả kết quả.
     - Chuyển hồ sơ về Phòng Bưu chính, Viễn thông lưu.
-</srai>
+
 </template>
 	</category>
 
 	<category>
 		<pattern>thời gian lưu hồ sơ đăng ký cấp lại văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng được</pattern>
-		<template><srai>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
+		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
 
-</srai>
+
 </template>
 	</category>
 

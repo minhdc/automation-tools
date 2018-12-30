@@ -2,1087 +2,1087 @@
 <aiml version="2.0">
 	<category>
 		<pattern>đặc điểm của đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>như thế nào là đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên có đặc điểm gì</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên có gì khác thường</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên khác với người bình thường như thế nào</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>khái niệm đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trình bày về đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên được hiểu như thế nào</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên là ai</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên là những người như thế nào</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên có phải siêu nhân không</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tại sao ai cũng thích vào đảng</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tại sao ai cũng thích làm đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>ai cũng muốn làm đảng viên đúng không</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tôi muốn vào đảng</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tôi muốn làm đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>làm thế nào đẻ trở thành đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>điều kiện để trở thành đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>để trở thành đảng viên thì cần điều kiện gì</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>làm đảng viên có khó không</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>làm đảng viên thì phải đáp ứng được tiêu chuẩn gì</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>để vào đảng thì phải đáp ứng được tiêu chuẩn gì</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>để vào đảng thì phải làm sao </pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>điều kiện vào đảng </pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>có phải ai cũng được kết nạp đảng không</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>để được kết nạp đảng thì phải làm sao</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>điều kiện kết nạp đảng</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tiêu chí kết nạp đảng</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quy tắc kết nạp đảng</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tiêu chuẩn kết nạp đảng</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>để vào đảng thì cần tiêu chuẩn gì</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>để được kết nạp đảng thì phải đáp ứng được tiêu chuẩn nào</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>muốn vào đảng thì phải đáp ứng điều kiện gì</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>làm sao để vào đảng</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>để vào đảng cần chuẩn bị những gì</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>cơ quan nào có thẩm quyền kết nạp đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>thầm quyền kết nạp đảng viên do cơ quan nào quyết định</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>việc kết nạp đảng viên do cơ quan nào tiến hành</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>ai chịu trách nhiệm việc kết nạp đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>cơ quan nào chịu trách nhiệm kết nạp đảng viên</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>kết nạp đảng viên thuộc thẩm quyển của cơ quan nào</pattern>
-		<template><srai>đảng viên</srai>
+		<template>đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>nhiệm vụ của đảng viên gồm những gì</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>nhiệm vụ của đảng viên có nặng nề không</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>nhiệm vụ của đảng viên có khác gì không</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>nhiệm vụ của đảng viên cụ thể như thế nào</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>nhiệm vụ của đảng viên ra sao</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên phải làm gì</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên có nhiệm vụ gì</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>nhiệm vụ của người đảng viên</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trách nhiệm của đảng viên</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trách nhiệm của đảng viên gồm những gì</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trách nhiệm của đảng viên có nặng nề không</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trách nhiệm của đảng viên có khác gì không</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trách nhiệm của đảng viên cụ thể như thế nào</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trách nhiệm của đảng viên ra sao</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên phải có trách nhiệm như thế nào</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>liệt kê các nhiệm vụ của đảng viên</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trình bày nhiệm vụ của đảng viên</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>nêu nhiệm vụ của đảng viên</pattern>
-		<template><srai>nhiệm vụ của đảng viên</srai>
+		<template>nhiệm vụ của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên như thế nào</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên gồm những gì</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên có gì đáng chú ý</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên cụ thể ra sao</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên có gì khác thường</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên so với người bình thường như thế nào</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên có gì khác người bình thường</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên có nhiều hơn người bình thường không</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên là như thế nào</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quyền của đảng viên hiểu như nào cho đúng</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tôi muốn biết về quyền của đảng viên </pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tôi có thắc mắc về quyền của đảng viên</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tôi chưa nắm được quyền của đảng viên</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>tôi chưa hiểu quyền của đảng viên</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>liệt kê quyền của đảng viên</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>trình bày tất cả quyền của đảng viên</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>thống kê quyền của đảng viên</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên có bao nhiêu quyền</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>làm đảng viên có quyền gì không</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>làm đảng viên thì có lợi gì</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>làm đảng viên có được quyền gì không</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>sau khi vào đảng thì được quyền gì</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>vào đảng thì được gì</pattern>
-		<template><srai>quyền của đảng viên</srai>
+		<template>quyền của đảng viên
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình kết nạp đảng</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>các bước kết nạp đảng</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>trình tự vào đảng</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thủ tục kết nạp đảng gồm những gì </pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thủ tục kết nạp đảng có phức tạp không</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thủ tục kết nạp đảng chuẩn bị như thế nào</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thủ tục kết nạp đảng xử lý ra sao</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thủ tục kết nạp đảng lấy ở đâu</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thủ tục kết nạp đảng có nhiều không</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>cách làm thủ tục kết nạp đảng </pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>các bước làm thủ tục kết nạp đảng</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>trình tự làm thủ tục kết nạp đảng</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình kết nạp đảng gồm những gì </pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình kết nạp đảng có phức tạp không</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình kết nạp lại đảng viên</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình kết nạp đảng chuẩn bị như thế nào</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình kết nạp đảng diễn ra như thế nào</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>cần chú ý gì về quy trình kết nạp đảng </pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình kết nạp đảng như thế nào</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>cách tiến hành quy trình kết nạp đảng</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>một năm có mấy đợt kết nạp đảng</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>kết nạp lại đảng viên diễn ra như thế nào</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>kết nạp lại đảng viên có gì khác không</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>trình tự kết nạp lại đảng viên</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thủ tục kết nạp lại đảng viên</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>quy trình kết nạp lại đảng viên như thế nào</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>kết nạp lại đảng viên diễn ra theo quy trình nào</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>kết nạp lại đảng viên có phức tạp không</pattern>
-		<template><srai>thủ tục kết nạp đảng</srai>
+		<template>thủ tục kết nạp đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng là gì</pattern>
-		<template><srai>thẻ đảng</srai>
+		<template>thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng có gì đặc biệt</pattern>
-		<template><srai>thẻ đảng</srai>
+		<template>thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng có từ bao giờ</pattern>
-		<template><srai>lịch sử thẻ đảng</srai>
+		<template>lịch sử thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đặc điểm của thẻ đảng </pattern>
-		<template><srai>lịch sử thẻ đảng</srai>
+		<template>lịch sử thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng lần đầu tiên xuất hiện khi nào</pattern>
-		<template><srai>lịch sử thẻ đảng</srai>
+		<template>lịch sử thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>giới thiệu về thẻ đảng</pattern>
-		<template><srai>lịch sử thẻ đảng</srai>
+		<template>lịch sử thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng dùng để làm gì</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>vai trò của thẻ đảng</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng có nhiệm vụ gì</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng có vai trò gì</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng có vai trò như thế nào</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng được sử dụng ở đâu</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng được sử dụng như thế nào</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng được dùng khi nào</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>sử dụng thẻ đảng ở đâu</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>sử dụng thẻ đảng khi nào</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>sử dụng thẻ đảng cần lưu ý điều gì</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đi họp có phải mang thẻ đảng không</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>sử dụng thẻ đảng như thế nào</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>cầm thẻ đảng như thế nào</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng dùng trong cuộc họp nào</pattern>
-		<template><srai>tác dụng của thẻ đảng</srai>
+		<template>tác dụng của thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>ai cấp thẻ đảng</pattern>
-		<template><srai>quản lý thẻ đảng</srai>
+		<template>quản lý thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>bao giờ tôi được cấp thẻ đảng</pattern>
-		<template><srai>quản lý thẻ đảng</srai>
+		<template>quản lý thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>làm mất thẻ đảng thì phải làm sao</pattern>
-		<template><srai>mất thẻ đảng</srai>
+		<template>mất thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>có được cấp lại thẻ đảng không</pattern>
-		<template><srai>mất thẻ đảng</srai>
+		<template>mất thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng có được cấp lại không</pattern>
-		<template><srai>mất thẻ đảng</srai>
+		<template>mất thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>mất thẻ đảng có bị kỷ luật không</pattern>
-		<template><srai>mất thẻ đảng</srai>
+		<template>mất thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>mất thẻ đảng có bị kỉ luật không</pattern>
-		<template><srai>mất thẻ đảng</srai>
+		<template>mất thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>mất thẻ đảng thì phải làm gì</pattern>
-		<template><srai>mất thẻ đảng</srai>
+		<template>mất thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>khi nào phát thẻ đảng</pattern>
-		<template><srai>quản lý thẻ đảng</srai>
+		<template>quản lý thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>tại sao không được phát thẻ đảng</pattern>
-		<template><srai>quản lý thẻ đảng</srai>
+		<template>quản lý thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>tôi nhận thẻ đảng ở đâu</pattern>
-		<template><srai>quản lý thẻ đảng</srai>
+		<template>quản lý thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>bảo quản thẻ đảng như thế nào</pattern>
-		<template><srai>quản lý thẻ đảng</srai>
+		<template>quản lý thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng có hiệu lực trong bao lâu</pattern>
-		<template><srai>quản lý thẻ đảng</srai>
+		<template>quản lý thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng cấp cho những ai</pattern>
-		<template><srai>cấp thẻ đảng</srai>
+		<template>cấp thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đối tượng nào được cấp thẻ đảng</pattern>
-		<template><srai>cấp thẻ đảng</srai>
+		<template>cấp thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thẻ đảng được cấp cho đối tượng nào</pattern>
-		<template><srai>cấp thẻ đảng</srai>
+		<template>cấp thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>có phải đảng viên nào cũng có thẻ đảng không</pattern>
-		<template><srai>cấp thẻ đảng</srai>
+		<template>cấp thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên nào cũng được cấp thẻ đảng đúng không</pattern>
-		<template><srai>cấp thẻ đảng</srai>
+		<template>cấp thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên dự bị có được cấp thẻ đảng không</pattern>
-		<template><srai>cấp thẻ đảng</srai>
+		<template>cấp thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>trả thẻ đảng viên</pattern>
-		<template><srai>trả thẻ đảng</srai>
+		<template>trả thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>tự hủy thẻ đảng viên</pattern>
-		<template><srai>trả thẻ đảng</srai>
+		<template>trả thẻ đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên xin miễn công tác đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên xin miễn sinh hoạt đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên muốn xin miễn công tác đảng thì phải làm sao</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên tuổi cao</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên tuổi cao có phải sinh hoạt đảng không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên tuổi cao muốn xin miễn sinh hoạt đảng thì phải làm gì</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>đảng viên tuổi cao có được miễn công tác đảng không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>bao nhiêu tuổi thì được miễn sinh hoạt đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>lúc nào thì được miễn sinh hoạt đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>tự nguyện xin miễn sinh hoạt đảng có được không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>tự nguyện xin miễn công tác đảng có được không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>khi nào thì được miễn sinh hoạt đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>khi nào thì được miễn công tác đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thời điểm nào thì được miễn sinh hoạt đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thời điểm nào thì được miễn công tác đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>không đóng đảng phí thì có bị làm sao không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>không đóng đảng phí</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>xin ra khỏi đảng như thế nào</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>tôi muốn xin ra khỏi đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>xin ra khỏi đảng thì phải làm gì</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>xin ra khỏi đảng có được không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>xin ra khỏi đảng có khó khăn gì không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>xin ra khỏi đảng có dễ không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>không sinh hoạt đảng có làm sao không</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>khi nào thì bị xóa tên đảng viên</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>khi nào thì bị khai trừ khỏi đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>tại sao lại bị xóa tên đảng viên</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>điều kiện để xin ra khỏi đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
 	<category>
 		<pattern>thủ tục xin ra khỏi đảng</pattern>
-		<template><srai>xin miễn công tác đảng</srai>
+		<template>xin miễn công tác đảng
 </template>
 	</category>
 
