@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
 	<category>
-		<pattern>đảng viên là gì</pattern>
+		<pattern>^ đảng viên ^ là ^</pattern>
 		<template>1. Đảng viên Đảng Cộng sản Việt Nam là chiến sĩ cách mạng trong đội tiên phong của giai cấp công nhân, nhân dân lao động và dân tộc Việt Nam, suốt đời phấn đấu cho mục đích, lý tưởng của Đảng, đặt lợi ích của Tổ quốc, của giai cấp công nhân và nhân dân lao động lên trên lợi ích cá nhân; chấp hành nghiêm chỉnh Cương lĩnh chính trị, Điều lệ Đảng, các nghị quyết của Đảng và pháp luật của Nhà nước; có lao động, hoàn thành tốt nhiệm vụ được giao; có đạo đức và lối sống lành mạnh; gắn bó mật thiết với nhân dân; phục tùng tổ chức, kỷ luật của Đảng, giữ gìn đoàn kết thống nhất trong Đảng.
 
 2. Công dân Việt Nam từ mười tám tuổi trở lên; thừa nhận và tự nguyện : thực hiện Cương lĩnh chính trị, Điều lệ Đảng, tiêu chuẩn và nhiệm vụ đảng viên, hoạt động trong một tổ chức cơ sở đảng; qua thực tiễn chứng tỏ là người ưu tú, được nhân dân tín nhiệm, đều có thể được xét để kết nạp vào Đảng.
@@ -9,7 +9,7 @@
 	</category>
 
 	<category>
-		<pattern>nhiệm vụ của đảng viên</pattern>
+		<pattern>^ nhiệm vụ ^ đảng viên ^</pattern>
 		<template>Đảng viên có nhiệm vụ:
 
 1. Tuyệt đối trung thành với mục đích lý tưởng cách mạng của Đảng, chấp hành nghiêm chỉnh Cương lĩnh chính trị, Điều lệ Đảng, nghị quyết, chỉ thị của Đảng, pháp luật của Nhà nước; hoàn thành tốt nhiệm vụ được giao; phục tùng tuyệt đối sự phân công và điều động của Đảng.
@@ -23,7 +23,7 @@
 	</category>
 
 	<category>
-		<pattern>quyền của đảng viên</pattern>
+		<pattern>^ quyền ^ đảng viên ^</pattern>
 		<template>Đảng viên có quyền:
 
 1. Được thông tin và thảo luận các vấn đề về Cương lĩnh chính trị, Điều lệ Đảng, đường lối, chủ trương, chính sách của Đảng; biểu quyết công việc của Đảng.
@@ -39,7 +39,7 @@
 	</category>
 
 	<category>
-		<pattern>thủ tục kết nạp đảng</pattern>
+		<pattern>^ thủ tục ^ kết nạp ^ đảng ^</pattern>
 		<template>Quy trình, thủ tục và yêu cầu kết nạp đảng viên được quy định ở điều 4 và điều 5 - điều lệ Đảng Cộng Sản Việt Nam.
 
 Xem chi tiết tại:
@@ -48,7 +48,7 @@ http://cand.com.vn/thoi-su/Dieu-le-Dang-(do-Dai-hoi-dai-bieu-toan-quoc-lan-thu-X
 	</category>
 
 	<category>
-		<pattern>thẻ đảng</pattern>
+		<pattern>^ thẻ ^</pattern>
 		<template>     Thẻ đảng viên là giấy chứng nhận quan trọng của người đảng viên, được phát khi đảng viên đã được công nhận đảng viên chính thức.
 
 Tham khảo thông tin đầy đủ về thẻ đảng tại: 
@@ -57,7 +57,7 @@ http://www.truongchinhtrina.gov.vn/DNews.aspx?NewsID=937
 	</category>
 
 	<category>
-		<pattern>lich sử thẻ đảng</pattern>
+		<pattern>^ lich ^ sử ^ thẻ ^</pattern>
 		<template>Thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ IV của Đảng (12/1976) và hướng tới kỷ niệm 50 năm Ngày thành lập Đảng (3/2/1980), ngày 26/11/1979, Ban Bí thư Trung ương Đảng khóa IV đã ban hành Chỉ thị số 83-CT/TW “về việc phát thẻ đảng viên”. 
 
       Ngày 17/10/2003, Ban Bí thư ban hành Chỉ thị số 29-CT/TƯ “về việc đổi thẻ đảng viên” với mục đích “nhằm nâng cao ý thức Đảng cho đảng viên, góp phần nâng cao chất lượng đội ngũ đảng viên và tổ chức cơ sở đảng, thúc đẩy thực hiện cuộc vận động xây dựng, chỉnh đốn Đảng theo Nghị quyết Trung ương 6 (lần 2) khóa VIII và Nghị quyết Đại hội lần thứ IX của Đảng, đáp ứng yêu cầu của sự nghiệp đổi mới trong giai đoạn cách mạng hiện nay”. 
@@ -70,7 +70,7 @@ Xem chi tiết tại:
 	</category>
 
 	<category>
-		<pattern>thẻ đảng có tác dụng gì</pattern>
+		<pattern>^ thẻ ^ đảng ^ có ^ tác dụng ^</pattern>
 		<template>- Thẻ đảng viên là giấy chứng nhận quan trọng của đảng viên được sử dụng trong các trường hợp sau:
 
       + Biểu quyết trong sinh hoạt đảng (sinh hoạt chi bộ, hội nghị đảng bộ, hội nghị của cấp ủy các cấp).
@@ -88,14 +88,14 @@ http://www.truongchinhtrina.gov.vn/DNews.aspx?NewsID=937
 	</category>
 
 	<category>
-		<pattern>quản lý thẻ đảng như thế nào</pattern>
+		<pattern>^ quản lý ^ thẻ ^</pattern>
 		<template>  Thẻ đảng viên được phát cho đảng viên chính thức, chi bộ tổ chức phát thẻ đảng viên trong kỳ sinh hoạt chi bộ gần nhất, sau khi có quyết định của cấp có thẩm quyền. Định kỳ hằng năm chi bộ kiểm tra thẻ của đảng viên trong chi bộ.
 Chi tiết vui lòng tham khảo tại: http://www.truongchinhtrina.gov.vn/DNews.aspx?NewsID=937
 </template>
 	</category>
 
 	<category>
-		<pattern>làm mất thẻ đảng thì phải làm sao</pattern>
+		<pattern>^ làm ^ mất ^ thẻ ^ đảng ^ phải ^</pattern>
 		<template> - Đảng viên làm mất hoặc hỏng thẻ đảng viên, làm bản kiểm điểm trình bày trước chi bộ, báo cáo với cấp ủy có thẩm quyền để xét cấp lại hoặc đổi thẻ đảng viên.
 
  - Đảng viên hoặc tổ chức đảng phát hiện việc sử dụng thẻ đảng viên sai quy định, lấy cắp hoặc làm giả thẻ đảng viên phải kịp thời báo cáo cấp ủy.
@@ -105,13 +105,13 @@ Chi tiết vui lòng tham khảo tại: http://www.truongchinhtrina.gov.vn/DNews
 	</category>
 
 	<category>
-		<pattern>thẻ đảng cấp cho những ai</pattern>
+		<pattern>^ thẻ ^ đảng ^ cấp ^</pattern>
 		<template>Thẻ đảng được cấp cho đảng viên chính thức
 </template>
 	</category>
 
 	<category>
-		<pattern>trả thẻ đảng viên</pattern>
+		<pattern>^ trả ^ thẻ ^ đảng viên ^</pattern>
 		<template>Điều 8.
 
 1. Đảng viên bỏ sinh hoạt chi bộ hoặc không đóng đảng phí ba tháng trong năm mà không có lý do chính đáng; đảng viên giảm sút ý chí phấn đấu, không làm nhiệm vụ đảng viên, đã được chi bộ giáo dục mà không tiến bộ thì chi bộ xem xét, đề nghị lên cấp có thẩm quyền xoá tên trong danh sách đảng viên.

@@ -96,9 +96,5 @@ def create_and_fill_single_aiml_file(name, location,content_as_dict):
 # write pattern : template
 
 #============ TeST==============
-list_of_xcel_files = get_xlsx_files(constant.INPUT_XCEL_FILES)
 
-for each in list_of_xcel_files:
-    content_as_dict = read_xlsx_file(os.path.join(constant.INPUT_XCEL_FILES,each))
-    create_and_fill_single_aiml_file(each,constant.OUTPUT_AIML_FILES,content_as_dict)
     

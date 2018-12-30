@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
 	<category>
-		<pattern>thông tin chung của quá trình đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ thông tin ^ quá trình ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Các đối tượng sau đây phải thực hiện đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh với Sở Thông tin và Truyền thông tại địa phương nơi thiết lập hệ thống thiết bị thu tín hiệu:
 a) Các đối tượng sau đây được thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh để khai thác thông tin phục vụ công tác chuyên môn nghiệp vụ:
 - Các cơ quan Đảng, Nhà nước, đoàn thể chính trị - xã hội ở trung ương và tỉnh, thành phố trực thuộc Trung ương;
@@ -17,26 +17,26 @@ c) Các doanh nghiệp có Giấy phép cung cấp dịch vụ phát thanh, truy
 	</category>
 
 	<category>
-		<pattern>đối tượng phải đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ đối tượng ^ phải ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Tổ chức có nhu cầu lập hồ sơ gửi đến Sở Thông tin và Truyền thông tỉnh, thành phố trực thuộc Trung ương nơi lắp đặt thiết bị thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh;
 </template>
 	</category>
 
 	<category>
-		<pattern>hiệu lực của giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ hiệu lực ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>Giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh có hiệu lực tối đa 05 (năm) năm kể từ ngày cấp nhưng không vượt quá thời hạn có hiệu lực ghi trong Giấy phép thành lập, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Thẻ thường trú, Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ cách thức ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>- Trực tiếp tại Sở Thông tin và Truyền thông sở tại;
 - Tải biểu mẫu qua mạng Internet, điền đầy đủ thông tin và gửi về sở TTT theo đường bưu điện
 </template>
 	</category>
 
 	<category>
-		<pattern>hồ sơ đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ hồ sơ ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Hồ sơ cấp đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh được quy định như sau:
 a) Tờ khai đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh (Mẫu số 07/DVTHTT ban hành kèm theo Thông tư số 19/2016/TT-BTTTT ngày 30/6/2016 của Bộ trưởng Bộ Thông tin và Truyền thông)
 b) Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu các loại giấy tờ sau: Giấy phép thành lập hoặc văn bản pháp lý tương đương đối với các tổ chức quy định tại Khoản 2 Điều 29 Nghị định này; Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư (nếu có) đối với tổ chức, Thẻ thường trú hoặc giấy tờ pháp lý tương đương đối với hộ gia đình, cá nhân người nước ngoài quy định tại Khoản 3 Điều 29 Nghị định này; văn bản đăng ký hoạt động của khách sạn quy định tại Điểm b Khoản 4 Điều 29 Nghị định này; Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền đối với doanh nghiệp quy định tại Khoản 6 Điều 29 Nghị định này;
@@ -46,7 +46,7 @@ c) Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối c
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Hồ sơ cấp đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh được quy định như sau:
 a) Tờ khai đăng ký theo mẫu do Bộ Thông tin và Truyền thông quy định;
 b) Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu các loại giấy tờ sau: Giấy phép thành lập hoặc văn bản pháp lý tương đương đối với các tổ chức quy định tại Khoản 2 Điều 29 Nghị định này; Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư (nếu có) đối với tổ chức, Thẻ thường trú hoặc giấy tờ pháp lý tương đương đối với hộ gia đình, cá nhân người nước ngoài quy định tại Khoản 3 Điều 29 Nghị định này; văn bản đăng ký hoạt động của khách sạn quy định tại Điểm b Khoản 4 Điều 29 Nghị định này; Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền đối với doanh nghiệp quy định tại Khoản 6 Điều 29 Nghị định này;
@@ -56,32 +56,32 @@ c) Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối c
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết hồ sơ đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ hồ sơ ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>15 (mười lăm) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết hồ sơ đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ hồ sơ ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết hồ sơ đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ hồ sơ ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>Giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>- Nghị định số 06/2016/NĐ-CP ngày 18 tháng 01 năm 2016 của Chính phủ quy định quản lý, cung cấp và sử dụng dịch vụ phát thanh, truyền hình;
 - Thông tư số 19/2016/TT-BTTTT ngày 30 tháng 6 năm 2016 cùa Bộ Thông tin và Truyền thông quy định các biểu mẫu Tờ khai đăng ký, Đơn đề nghị cấp Giấy phép, Giấy Chứng nhận, Giấy phép và Báo cáo nghiệp vụ theo quy định tại Nghị định số 06/2016/NĐ-CP ngày 30/6/2016.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ quy trình ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -108,7 +108,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -118,33 +118,33 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lê phí đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ lê ^ phí ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>lê phí đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh tiến hành thu theo quy định của Bộ tài chính nếu có
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình sửa đổi bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ thông tin ^ quá trình ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Tổ chức có nhu cầu lập hồ sơ gửi đến Sở Thông tin và Truyền thông tỉnh, thành phố trực thuộc Trung ương nơi lắp đặt thiết bị thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh;
 2. Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Thông tin và Truyền thông tỉnh, thành phố trực thuộc Trung ương có trách nhiệm xét cấp đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh. Trường hợp không cấp đăng ký, Sở Thông tin và Truyền thông có văn bản trả lời nêu rõ lý do.
 </template>
 	</category>
 
 	<category>
-		<pattern>hiệu lực của giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh sau khi sửa đổi</pattern>
+		<pattern>^ hiệu lực ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^ vệ tinh ^ sau ^ khi ^ sửa đổi ^</pattern>
 		<template>Giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh có hiệu lực tối đa 05 (năm) năm kể từ ngày cấp nhưng không vượt quá thời hạn có hiệu lực ghi trong Giấy phép thành lập, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Thẻ thường trú, Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức đăng ký sửa đổi bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ cách thức ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>- Trực tiếp tại Sở Thông tin và Truyền thông sở tại;
 - Tải biểu mẫu qua mạng Internet, điền đầy đủ thông tin và gửi về sở TTT theo đường bưu điện
 </template>
 	</category>
 
 	<category>
-		<pattern>hồ sơ sửa đổi, bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ hồ sơ ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Hồ sơ sửa đổi, bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh được quy định như sau:
 a) Văn bản đề nghị nêu rõ nội dung cần sửa đổi, bổ sung; 
 b) Đối với trường hợp thay đổi địa điểm lắp đặt, cần có bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu văn bản chứng minh quyền sở hữu, thuê, mượn địa điểm mới.
@@ -153,7 +153,7 @@ b) Đối với trường hợp thay đổi địa điểm lắp đặt, cần c
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ sửa đổi, bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Hồ sơ sửa đổi, bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh được quy định như sau:
 a) Văn bản đề nghị nêu rõ nội dung cần sửa đổi, bổ sung; 
 b) Đối với trường hợp thay đổi địa điểm lắp đặt, cần có bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu văn bản chứng minh quyền sở hữu, thuê, mượn địa điểm mới.
@@ -162,32 +162,32 @@ b) Đối với trường hợp thay đổi địa điểm lắp đặt, cần c
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết hồ sơ sửa đổi bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ hồ sơ ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>15 (mười lăm) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết hồ sơ sửa đổi bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ hồ sơ ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết hồ sơ sửa đổi bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ hồ sơ ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>Giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc sửa đổi bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>- Nghị định số 06/2016/NĐ-CP ngày 18 tháng 01 năm 2016 của Chính phủ quy định quản lý, cung cấp và sử dụng dịch vụ phát thanh, truyền hình;
 - Thông tư số 19/2016/TT-BTTTT ngày 30 tháng 6 năm 2016 cùa Bộ Thông tin và Truyền thông quy định các biểu mẫu Tờ khai đăng ký, Đơn đề nghị cấp Giấy phép, Giấy Chứng nhận, Giấy phép và Báo cáo nghiệp vụ theo quy định tại Nghị định số 06/2016/NĐ-CP ngày 30/6/2016.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình xử lý yêu cầu sửa đổi bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ quy trình ^ xử lý ^ yêu cầu ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -214,7 +214,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ sửa đổi bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ sửa đổi ^ bổ sung ^ giấy ^ chứng nhận ^ đăng ký ^ thu ^ tín hiệu ^ truyền hình ^ nước ngoài ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -224,7 +224,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình cấp giấy phép thiết lâp trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thông tin ^ quá trình ^ cấp ^ giấy phép ^ thiết ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Tổ chức, doanh nghiệp đề nghị cấp giấy phép thiết lập trang thông tin điện tử tổng hợp gửi hồ sơ đề nghị tới Sở Thông tin và Truyền thông.
     • Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Thông tin và Truyền thông xem xét cấp giấy phép thiết lập trang thông tin điện tử tổng hợp. Trường hợp từ chối, Sở Thông tin và Truyền thông có văn bản trả lời nêu rõ lý do.
     • Trong thời hạn 05 (năm) ngày làm việc kể từ khi nhận được hồ sơ hợp lệ của các cơ quan báo chí địa phương, Sở Thông tin và Truyền thông các tỉnh, thành phố có trách nhiệm thẩm định và chuyển hồ sơ kèm theo văn bản đề nghị cấp giấy phép đến Cục Phát thanh, truyền hình và Thông tin điện tử xem xét cấp phép theo quy định của pháp luật. Trường hợp hồ sơ không hợp lệ, Sở Thông tin và Truyền thông có văn bản trả lời nêu rõ lý do.
@@ -232,7 +232,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>điều kiện cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ điều kiện ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Tổ chức, doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp khi có đủ các điều kiện sau đây:
 1. Là tổ chức, doanh nghiệp được thành lập theo pháp luật Việt Nam có chức năng, nhiệm vụ hoặc ngành nghề đăng ký kinh doanh phù hợp với dịch vụ và nội dung thông tin cung cấp đã được đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
 2. Có tổ chức, nhân sự đáp ứng theo quy định sau:
@@ -261,13 +261,13 @@ c) Có cơ chế phối hợp để có thể loại bỏ ngay nội dung vi ph�
 	</category>
 
 	<category>
-		<pattern>hiệu lực của giấy chứng nhận thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ hiệu lực ^ giấy ^ chứng nhận ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Giấy chứng nhận thiết lập trang thông tin điện tử có hiệu lực ghi trong Giấy phép thành lập, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Thẻ thường trú, Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cách thức ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -276,7 +276,7 @@ c) Có cơ chế phối hợp để có thể loại bỏ ngay nội dung vi ph�
 	</category>
 
 	<category>
-		<pattern>hồ sơ đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ hồ sơ ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Hồ sơ đề nghị cấp giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
     • Đơn đề nghị cấp giấy phép thiết lập trang thông tin điện tử tổng hợp (theo mẫu);
     • Bản sao hợp lệ bao gồm bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao đối chiếu với bản gốc một trong các loại giấy tờ: Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư, Quyết định thành lập (hoặc bản sao hợp lệ Giấy chứng nhận, giấy phép tương đương hợp lệ khác được cấp trước ngày có hiệu lực của Luật đầu tư số 67/2014/QH13 và Luật doanh nghiệp số 68/2014/QH13); Điều lệ hoạt động (đối với các tổ chức hội, đoàn thể).
@@ -288,7 +288,7 @@ Quyết định thành lập hoặc Điều lệ hoạt động phải có chứ
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Hồ sơ đề nghị cấp giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
     • Đơn đề nghị cấp giấy phép thiết lập trang thông tin điện tử tổng hợp (theo mẫu);
     • Bản sao hợp lệ bao gồm bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao đối chiếu với bản gốc một trong các loại giấy tờ: Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư, Quyết định thành lập (hoặc bản sao hợp lệ Giấy chứng nhận, giấy phép tương đương hợp lệ khác được cấp trước ngày có hiệu lực của Luật đầu tư số 67/2014/QH13 và Luật doanh nghiệp số 68/2014/QH13); Điều lệ hoạt động (đối với các tổ chức hội, đoàn thể).
@@ -300,32 +300,32 @@ Quyết định thành lập hoặc Điều lệ hoạt động phải có chứ
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết hồ sơ đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ hồ sơ ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết hồ sơ đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ hồ sơ ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết hồ sơ đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ hồ sơ ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ quy trình ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -352,7 +352,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -362,13 +362,13 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lệ phí đăng ký cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ lệ phí ^ đăng ký ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template> lệ phí đăng ký cấp giấy phép trang thông tin điện tử tổng hợp tuân theo quy định của bộ tài chính nếu có
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình sửa đổi bổ sung giấy phép thiết lâp trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thông tin ^ quá trình ^ sửa đổi ^ bổ sung ^ giấy phép ^ thiết ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Tổ chức, doanh nghiệp có giấy phép thiết lập trang thông tin điện tử tổng hợp phải làm thủ tục sửa đổi, bổ sung giấy phép trong những trường hợp sau:
     • Thay đổi tên của tổ chức, doanh nghiệp;
     • Thay đổi địa điểm đặt máy chủ tại Việt Nam;
@@ -380,7 +380,7 @@ Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ s�
 	</category>
 
 	<category>
-		<pattern>điều kiện sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ điều kiện ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Tổ chức, doanh nghiệp có giấy phép thiết lập trang thông tin điện tử tổng hợp phải làm thủ tục sửa đổi, bổ sung giấy phép trong những trường hợp sau:
     • Thay đổi tên của tổ chức, doanh nghiệp;
     • Thay đổi địa điểm đặt máy chủ tại Việt Nam;
@@ -392,13 +392,7 @@ Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ s�
 	</category>
 
 	<category>
-		<pattern>hiệu lực của giấy chứng nhận thiết lập trang thông tin điện tử tổng hợp </pattern>
-		<template>Giấy chứng nhận thiết lập trang thông tin điện tử có hiệu lực ghi trong Giấy phép thành lập, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Thẻ thường trú, Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền.
-</template>
-	</category>
-
-	<category>
-		<pattern>cách thức đăng ký sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cách thức ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -407,7 +401,7 @@ Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ s�
 	</category>
 
 	<category>
-		<pattern>hồ sơ sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ hồ sơ ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Hồ sơ đề nghị sửa đổi, bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
     • Văn bản đề nghị (nêu rõ nội dung, lý do cần sửa đổi, bổ sung);
     • Các tài liệu chứng minh có liên quan.
@@ -416,7 +410,7 @@ Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ s�
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Hồ sơ đề nghị sửa đổi, bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
     • Văn bản đề nghị (nêu rõ nội dung, lý do cần sửa đổi, bổ sung);
     • Các tài liệu chứng minh có liên quan.
@@ -425,32 +419,32 @@ Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ s�
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết hồ sơ đăng ký sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ hồ sơ ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết hồ sơ đăng ký sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ hồ sơ ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết hồ sơ đăng ký sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ hồ sơ ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc đăng ký sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình đăng ký sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ quy trình ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -477,7 +471,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ đăng ký sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -487,13 +481,13 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lệ phí đăng ký sửa đổi bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ lệ phí ^ đăng ký ^ sửa đổi ^ bổ sung ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template> lệ phí đăng ký sửa đổi bổ sung giấy phép trang thông tin điện tử tổng hợp là miễn phĩ
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình gia hạn giấy phép thiết lâp trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thông tin ^ quá trình ^ gia hạn ^ giấy phép ^ thiết ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Chậm nhất 30 (ba mươi) ngày trước khi hết hạn giấy phép thiết lập trang thông tin điện tử tổng hợp, tổ chức, doanh nghiệp muốn gia hạn giấy phép đã được cấp gửi hồ sơ đề nghị gia hạn giấy phép đến cơ quan cấp giấy phép.
     • Trong 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Thông tin và Truyền thông thẩm định, cấp gia hạn giấy phép. Trường hợp từ chối có văn bản trả lời nêu rõ lý do.
     • Giấy phép được gia hạn không quá 02 (hai) lần; mỗi lần không quá 02 (hai) năm.
@@ -502,7 +496,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>điều kiện gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ điều kiện ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Chậm nhất 30 (ba mươi) ngày trước khi hết hạn giấy phép thiết lập trang thông tin điện tử tổng hợp, tổ chức, doanh nghiệp muốn gia hạn giấy phép đã được cấp gửi hồ sơ đề nghị gia hạn giấy phép đến cơ quan cấp giấy phép.
     • Trong 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Thông tin và Truyền thông thẩm định, cấp gia hạn giấy phép. Trường hợp từ chối có văn bản trả lời nêu rõ lý do.
     • Giấy phép được gia hạn không quá 02 (hai) lần; mỗi lần không quá 02 (hai) năm.
@@ -511,7 +505,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>cách thức gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cách thức ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -520,7 +514,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>hồ sơ gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ hồ sơ ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Hồ sơ đề nghị gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
     • Văn bản đề nghị gia hạn (nêu rõ thời gian gia hạn) 
     2. Số lượng hồ sơ: 01 bộ.
@@ -528,7 +522,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Hồ sơ đề nghị gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
     • Văn bản đề nghị gia hạn (nêu rõ thời gian gia hạn) 
     2. Số lượng hồ sơ: 01 bộ.
@@ -536,32 +530,32 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết hồ sơ gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ hồ sơ ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết hồ sơ gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ hồ sơ ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết hồ sơ gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ hồ sơ ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ quy trình ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -588,7 +582,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -598,27 +592,27 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lệ phí gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ lệ phí ^ gia hạn ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>miễn phi lệ phí gia hạn giấy phép trang thông tin điện tử tổng hợp 
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình cấp lại giấy phép thiết lâp trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thông tin ^ quá trình ^ cấp ^ lại ^ giấy phép ^ thiết ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Trường hợp giấy phép thiết lập trang thông tin điện tử tổng hợp bị mất hoặc bị hư hỏng không còn sử dụng được, tổ chức, doanh nghiệp có giấy phép gửi hồ sơ đề nghị cấp lại giấy phép đến Sở Thông tin và Truyền thông.
     • Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ đề nghị, Sở Thông tin và Truyền thông xem xét, cấp giấy phép. Trong trường hợp từ chối sẽ có văn bản trả lời nêu rõ lý do.
 </template>
 	</category>
 
 	<category>
-		<pattern>điều kiện cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ điều kiện ^ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Trường hợp giấy phép thiết lập trang thông tin điện tử tổng hợp bị mất hoặc bị hư hỏng không còn sử dụng được, tổ chức, doanh nghiệp có giấy phép gửi hồ sơ đề nghị cấp lại giấy phép đến Sở Thông tin và Truyền thông.
     • Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ đề nghị, Sở Thông tin và Truyền thông xem xét, cấp giấy phép. Trong trường hợp từ chối sẽ có văn bản trả lời nêu rõ lý do.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cách thức ^ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -627,7 +621,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>hồ sơ cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ hồ sơ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Hồ sơ đề nghị cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
     • Văn bản đề nghị cấp lại giấy phép (nêu rõ số giấy phép, ngày cấp của giấy phép đã cấp và lý do đề nghị cấp lại giấy phép);
     • Trường hợp giấy phép bị hư hỏng thì gửi kèm theo bản giấy phép bị hư hỏng.
@@ -637,7 +631,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thành phần ^ hồ sơ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Hồ sơ đề nghị cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
     • Văn bản đề nghị cấp lại giấy phép (nêu rõ số giấy phép, ngày cấp của giấy phép đã cấp và lý do đề nghị cấp lại giấy phép);
     • Trường hợp giấy phép bị hư hỏng thì gửi kèm theo bản giấy phép bị hư hỏng.
@@ -647,32 +641,32 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết hồ sơ cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ hồ sơ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết hồ sơ cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ hồ sơ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết hồ sơ cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ hồ sơ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ quy trình ^ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -699,7 +693,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -709,27 +703,27 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lệ phí cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ lệ phí ^ cấp ^ lại ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>miễn phí cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp 
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lâp trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thông tin ^ quá trình ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ thiết ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Trang thông tin điện tử tổng hợp đã được cấp phép khi có sự thay đổi chủ sở hữu; địa chỉ trụ sở chính thì phải thông báo đến cơ quan cấp phép trong thời hạn 10 (mười) ngày làm việc kể từ ngày thay đổi.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>điều kiện thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ điều kiện ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Trang thông tin điện tử tổng hợp đã được cấp phép khi có sự thay đổi chủ sở hữu; địa chỉ trụ sở chính thì phải thông báo đến cơ quan cấp phép trong thời hạn 10 (mười) ngày làm việc kể từ ngày thay đổi.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cách thức ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -738,7 +732,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>hồ sơ thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ hồ sơ ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
 - Thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập trang thông tin điện tử tổng hợp, nội dung bao gồm: Tên tổ chức, doanh nghiệp; số giấy phép thiết lập trang thông tin điện tử tổng hợp; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -747,7 +741,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
 - Thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập trang thông tin điện tử tổng hợp, nội dung bao gồm: Tên tổ chức, doanh nghiệp; số giấy phép thiết lập trang thông tin điện tử tổng hợp; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -756,32 +750,32 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>07 (bảy) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ quy trình ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -808,7 +802,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -818,27 +812,27 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lệ phí thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ lệ phí ^ thông báo ^ thay đổi ^ chủ sở hữu ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>miễn phi lệ phí thông báo thay đổi chủ sở hữu doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lâp trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thông tin ^ quá trình ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ thiết ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Trang thông tin điện tử tổng hợp đã được cấp phép khi có sự thay đổi chủ sở hữu; địa chỉ trụ sở chính thì phải thông báo đến cơ quan cấp phép trong thời hạn 10 (mười) ngày làm việc kể từ ngày thay đổi.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>điều kiện thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ điều kiện ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>    • Trang thông tin điện tử tổng hợp đã được cấp phép khi có sự thay đổi chủ sở hữu; địa chỉ trụ sở chính thì phải thông báo đến cơ quan cấp phép trong thời hạn 10 (mười) ngày làm việc kể từ ngày thay đổi.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cách thức ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -847,7 +841,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>hồ sơ thông báo thay đổi cđịa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ hồ sơ ^ thông báo ^ thay đổi ^ cđịa ^ chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
 - Thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập trang thông tin điện tử tổng hợp, nội dung bao gồm: Tên tổ chức, doanh nghiệp; số giấy phép thiết lập trang thông tin điện tử tổng hợp; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -856,7 +850,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập trang thông tin điện tử tổng hợp bao gồm:
 - Thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập trang thông tin điện tử tổng hợp, nội dung bao gồm: Tên tổ chức, doanh nghiệp; số giấy phép thiết lập trang thông tin điện tử tổng hợp; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -865,32 +859,32 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>07 (bảy) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ quy trình ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -917,7 +911,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -927,27 +921,27 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lệ phí thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp</pattern>
+		<pattern>^ lệ phí ^ thông báo ^ thay đổi ^ địa chỉ ^ tru ^ sở ^ doanh nghiệp ^ được ^ cấp ^ giấy phép ^ trang ^ thông tin ^ điện tử ^</pattern>
 		<template>miễn phi lệ phí thông báo thay đổi địa chỉ tru sở chính của doanh nghiệp được cấp giấy phép thiết lập trang thông tin điện tử tổng hợp
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ thông tin ^ quá trình ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>    • Trong thời hạn 05 (năm) ngày làm việc, trước khi thay đổi địa chỉ trụ sở chính, văn phòng giao dịch, địa chỉ đặt hoặc cho thuê máy chủ thì doanh nghiệp không phải thực hiện thủ tục sửa đổi, bổ sung giấy phép cung cấp dịch vụ trò chơi điện tử G1 nhưng phải thông báo bằng văn bản tới Sở Thông tin và Truyền thông.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>điều kiện thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ điều kiện ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>    • Trong thời hạn 05 (năm) ngày làm việc, trước khi thay đổi địa chỉ trụ sở chính, văn phòng giao dịch, địa chỉ đặt hoặc cho thuê máy chủ thì doanh nghiệp không phải thực hiện thủ tục sửa đổi, bổ sung giấy phép cung cấp dịch vụ trò chơi điện tử G1 nhưng phải thông báo bằng văn bản tới Sở Thông tin và Truyền thông.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ cách thức ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -956,7 +950,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>hồ sơ thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ hồ sơ ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi trụ sở chính, văn phòng giao dịch, địa chỉ đặt hoặc cho thuê máy chủ bao gồm:
 - Thông báo thay đổi trụ sở chính, văn phòng giao dịch, địa chỉ đặt hoặc cho thuê máy chủ bao gồm các nội dung: Tên doanh nghiệp, số giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -964,7 +958,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi trụ sở chính, văn phòng giao dịch, địa chỉ đặt hoặc cho thuê máy chủ bao gồm:
 - Thông báo thay đổi trụ sở chính, văn phòng giao dịch, địa chỉ đặt hoặc cho thuê máy chủ bao gồm các nội dung: Tên doanh nghiệp, số giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -972,32 +966,32 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>07 (bảy) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ quy trình ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -1024,7 +1018,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ thông báo thay đổi địa chỉ trụ sở chính văn phòng giao dịch địa chỉ đặt hoặc cho thuê máy chủ của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 trên mạng</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ thông báo ^ thay đổi ^ địa chỉ ^ trụ sở ^ chính văn phòng ^ giao dịch ^ địa chỉ ^ đặt ^ cho ^ thuê ^ máy chủ ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G1 ^ mạng ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -1034,7 +1028,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ thông tin ^ quá trình ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>    • Các doanh nghiệp đã được cấp giấy phép cung cấp dịch vụ trò chơi điện tử G1 khi có sự thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên phải thông báo bằng văn bản tới Sở Thông tin và Truyền thông trong thời hạn 10 (mười) ngày làm việc kể từ ngày có quyết định thay đổi.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 
@@ -1042,7 +1036,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>điều kiện thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ điều kiện ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>    • Các doanh nghiệp đã được cấp giấy phép cung cấp dịch vụ trò chơi điện tử G1 khi có sự thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên phải thông báo bằng văn bản tới Sở Thông tin và Truyền thông trong thời hạn 10 (mười) ngày làm việc kể từ ngày có quyết định thay đổi.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 
@@ -1050,7 +1044,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>cách thức thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ cách thức ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -1059,7 +1053,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ hồ sơ ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 bao gồm:
 - Thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên, bao gồm: Tên doanh nghiệp, số giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -1067,7 +1061,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G1 bao gồm:
 - Thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên, bao gồm: Tên doanh nghiệp, số giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -1075,32 +1069,32 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>07 (bảy) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ quy trình ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -1127,7 +1121,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -1137,27 +1131,27 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lệ phí thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ lệ phí ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ trò chơi ^ điện tử ^ G1 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>miễn phi lệ phí thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp trò chơi điện tử G1 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ thông tin ^ quá trình ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>    • Trong thời hạn 05 (năm) ngày làm việc, trước khi thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet), kênh phân phối trò chơi (trên mạng viễn thông di động); thể loại trò chơi (G2, G3, G4); thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng thì doanh nghiệp không phải thực hiện thủ tục sửa đổi, bổ sung giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử nhưng phải thông báo bằng văn bản tới Sở Thông tin và Truyền thông.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>điều kiện thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ điều kiện ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>    • Trong thời hạn 05 (năm) ngày làm việc, trước khi thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet), kênh phân phối trò chơi (trên mạng viễn thông di động); thể loại trò chơi (G2, G3, G4); thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng thì doanh nghiệp không phải thực hiện thủ tục sửa đổi, bổ sung giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử nhưng phải thông báo bằng văn bản tới Sở Thông tin và Truyền thông.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ cách thức ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -1166,7 +1160,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>hồ sơ thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ hồ sơ ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet), kênh phân phối trò chơi (trên mạng viễn thông di động); thể loại trò chơi (G2, G3, G4); thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng bao gồm:
 - Thông báo thay đổi thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet), kênh phân phối trò chơi (trên mạng viễn thông di động); thể loại trò chơi (G2, G3, G4); thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng, nội dung bao gồm: Tên doanh nghiệp; số giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -1174,7 +1168,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>1.Hồ sơ thông báo thay đổi thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet), kênh phân phối trò chơi (trên mạng viễn thông di động); thể loại trò chơi (G2, G3, G4); thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng bao gồm:
 - Thông báo thay đổi thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet), kênh phân phối trò chơi (trên mạng viễn thông di động); thể loại trò chơi (G2, G3, G4); thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng, nội dung bao gồm: Tên doanh nghiệp; số giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -1182,32 +1176,32 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>07 (bảy) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ quy trình ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -1234,7 +1228,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
@@ -1244,27 +1238,27 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>lệ phí thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng</pattern>
+		<pattern>^ lệ phí ^ thông báo ^ thay đổi ^ tên ^ miền ^ khi ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ trang ^ thông tin ^ điện tử ^ kênh ^ phân phối ^ trò chơi ^ mạng ^ viễn thông ^ di động ^ thể loại ^ trò chơi ^ G2 G3 G4 ^ thay đổi ^ địa chỉ ^ trụ sở ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^</pattern>
 		<template>miễn phi lệ phí thông báo thay đổi tên miền khi cung cấp dịch vụ trò chơi điện tử trên trang thông tin điện tử (trên Internet) kênh phân phối trò chơi (trên mạng viễn thông di động) thể loại trò chơi (G2 G3 G4) thay đổi địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng
 </template>
 	</category>
 
 	<category>
-		<pattern>thông tin chung của quá trình thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ thông tin ^ quá trình ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>    • Các doanh nghiệp đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4 khi có sự thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng do chia, tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên phải thông báo bằng văn bản tới Sở Thông tin và Truyền thông trong thời hạn 05 (năm) ngày làm việc kể từ ngày có quyết định thay đổi.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>điều kiện thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ điều kiện ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>    • Các doanh nghiệp đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4 khi có sự thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng do chia, tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên phải thông báo bằng văn bản tới Sở Thông tin và Truyền thông trong thời hạn 05 (năm) ngày làm việc kể từ ngày có quyết định thay đổi.
     • Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, Sở Thông tin và Truyền thông có trách nhiệm gửi giấy xác nhận cho doanh nghiệp.
 </template>
 	</category>
 
 	<category>
-		<pattern>cách thức thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ cách thức ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>- Nộp trực tiếp tại cơ quan cấp giấy phép;
 - Thông qua hệ thống bưu chính;
 - Qua mạng Internet
@@ -1273,7 +1267,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ hồ sơ ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>1. Hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng do chia, tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên của doanh nghiệp đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4 bao gồm:
 - Thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng do chia, tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên của doanh nghiệp đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4, bao gồm: Tên doanh nghiệp; số giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -1281,7 +1275,7 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thành phần hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ thành phần ^ hồ sơ ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>1. Hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng do chia, tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên của doanh nghiệp đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4 bao gồm:
 - Thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng do chia, tách, hợp nhất, sáp nhập, chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp; phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên của doanh nghiệp đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4, bao gồm: Tên doanh nghiệp; số giấy chứng nhận đăng ký cung cấp dịch vụ trò chơi điện tử G2, G3, G4 trên mạng; những nội dung thay đổi.
 2. Số lượng hồ sơ: 01 bộ
@@ -1289,32 +1283,32 @@ Giấy xác nhận: vĩnh viễn
 	</category>
 
 	<category>
-		<pattern>thời gian giải quyết thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ thời gian ^ giải quyết ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>07 (bảy) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
 </template>
 	</category>
 
 	<category>
-		<pattern>cơ quan giải quyết thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ cơ quan ^ giải quyết ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>Sở TTT địa phương
 </template>
 	</category>
 
 	<category>
-		<pattern>kết quả giải quyết thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ kết quả ^ giải quyết ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>Giấy phép 
 </template>
 	</category>
 
 	<category>
-		<pattern>căn cứ pháp lý của việc thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ căn cứ ^ pháp lý ^ việc ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>- Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
 - Nghị định số 27/2018/NĐ-CP ngày 01/3/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
 </template>
 	</category>
 
 	<category>
-		<pattern>quy trình thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ quy trình ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>1. Bộ phận tiếp nhận và trả kết quả:
     • Xem xét thành phần hồ sơ: (0.5 ngày)
 + Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận hồ sơ và hẹn ngày trả kết quả.
@@ -1341,7 +1335,7 @@ Xem xét, ký giấy phép hoặc ký văn bản trả lời
 	</category>
 
 	<category>
-		<pattern>thời gian lưu hồ sơ thông báo thay đổi cơ cấu tổ chức của doanh nghiệp cung cấp dịch vụ trò chơi điện tử G2 G3 G4 trên mạng do chia tách hợp nhất sáp nhập chuyển đổi công ty theo quy định của pháp luật về doanh nghiệp thay đổi phần vốn góp dẫn đến thay đổi thành viên góp vốn (hoặc cổ đông) có phần vốn góp từ 30% vốn điều lệ trở lên</pattern>
+		<pattern>^ thời gian ^ lưu ^ hồ sơ ^ thông báo ^ thay đổi ^ cơ cấu ^ tổ chức ^ doanh nghiệp ^ cung cấp ^ dịch vụ ^ trò chơi ^ điện tử ^ G2 G3 G4 ^ mạng ^ chia ^ tách ^ hợp nhất ^ sáp nhập ^ chuyển đổi ^ công ty ^ theo ^ quy định ^ pháp luật ^ doanh nghiệp ^ thay đổi ^ phần ^ vốn ^ góp ^ dẫn ^ thay đổi ^ thành viên ^ góp ^ vốn ^ cổ đông ^ có ^ phần ^ vốn ^ góp ^ % ^ vốn ^ điều lệ ^ trở ^ lên ^</pattern>
 		<template>Biên nhận hồ sơ/sổ giao nhận/phiếu hẹn:  1 năm 
 Bộ hồ sơ theo Thành phần hồ sơ: vĩnh viễn
 Giấy xác nhận: vĩnh viễn
